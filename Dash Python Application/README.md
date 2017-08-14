@@ -6,5 +6,7 @@ Intercative Web apps on default port 8050 (or any custom port)
 
 How to run  
     - $ python main.py "scatter"
-	- $ python main.py "bar"
-	- $ python main.py "table"
+	
+    - $ python main.py "bar"
+	
+    - $ python main.py "table"
